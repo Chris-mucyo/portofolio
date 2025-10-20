@@ -18,7 +18,7 @@ export default function HomePage() {
       <About />
       <Projects />
       <Skills />
-      <GitHubGraph username="Chris-mucyo" />
+      <GitHubGraph username="muhozajohn" />
       <Education />
       <Contact />
 

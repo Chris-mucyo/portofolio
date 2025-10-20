@@ -10,10 +10,9 @@ export default function Hero() {
     >
       {/* Profile Picture */}
       <div className="relative w-48 h-48 md:w-60 md:h-60 rounded-full overflow-hidden border-4 border-blue-600 shadow-lg">
-        <Image
-          src="" 
+        <img
+          src="../mine.jpg" 
           alt="Profile Picture"
-          fill
           className="object-cover"
         />
       </div>
